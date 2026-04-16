@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+*.pyc
+*.pth
+*.pth.tar
+*.ckpt
+*.bin
+*.json
+data/
+weights/
+checkpoints/
+venv/
+*.log
